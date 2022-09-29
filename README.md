@@ -5,6 +5,7 @@ I am a Software Engineer primarily working in .Net stack at FIS India.
 Profesional Skills
 
 <p align="center" dir="auto">
+  
   <a href="https://dotnet.microsoft.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/89ee56e4197baad0b23efbc6b42d2f39a78c1af32628131ab6c2b03b251c321e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f746e65742f646f746e65742d617232312e737667" alt="dotnet" data-canonical-src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" style="max-width: 100%;">
   </a>
@@ -15,7 +16,13 @@ Profesional Skills
   <a href="https://angular.io" rel="nofollow">
     <img src="https://camo.githubusercontent.com/64963f8d6be1e7415dda9e42b09194a0e188cde966bcef6bbeb284ee889747df/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e67756c61722f616e67756c61722d617232312e737667" alt="angular" data-canonical-src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" style="max-width: 100%;">
   </a>
-
+  
+    <a href="https://jquery.com/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/d03eebeb5b432e60d3ed07e832e828f95e85f593c82b35f48bb24aa362f962a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a71756572792d2532333037363941442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465" alt="angular" data-canonical-src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" style="max-width: 100%;">
+  </a>
+    <a href="https://jquery.com/" rel="nofollow">
+    <img src="https://simple.wikipedia.org/wiki/JavaScript#/media/File:Unofficial_JavaScript_logo_2.svg" alt="angular" data-canonical-src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" style="max-width: 100%;">
+  </a>
   <a href="https://www.github.com">
     <img src="https://camo.githubusercontent.com/357f19138a1a4569442d4f95103b5abf8902eae05651a3e39aa7168278e9ca1b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d617232312e737667" alt="github" data-canonical-src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" style="max-width: 100%;">
   </a>
