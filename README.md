@@ -2,7 +2,7 @@
 
 I am a Software Engineer primarily working in .Net stack at FIS India. 
 
-Profesional Skills
+Professional Skills
 
 <p align="center" dir="auto">
   
